@@ -21,7 +21,7 @@
  enum preonic_keycodes {
    QWERTY = SAFE_RANGE,
    COLEMAK_DH,
-   JIS
+   JIS,
    LOWER,
    RAISE,
    ADJUST
